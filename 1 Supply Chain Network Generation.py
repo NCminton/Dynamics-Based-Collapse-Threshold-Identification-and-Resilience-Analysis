@@ -15,10 +15,10 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 
 # 设置文件路径
-base_path = r"E:\论文写作\35 TRE"
-raw_data_path = os.path.join(base_path, "2 每年原始数据\\1 原数据")
-output_path = os.path.join(base_path, "2 每年原始数据\\3 网络数据_新")
-topology_path = os.path.join(base_path, "2 每年原始数据\\4 网络数据_作图")
+base_path = r"E:\"
+raw_data_path = os.path.join(base_path, "")
+output_path = os.path.join(base_path, "")
+topology_path = os.path.join(base_path, "")
 
 # 确保输出目录存在
 os.makedirs(output_path, exist_ok=True)
