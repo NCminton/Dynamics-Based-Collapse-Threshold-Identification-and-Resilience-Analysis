@@ -2,7 +2,7 @@
 """
 Created on Mon Jan 26 15:52:51 2026
 
-@author: mengxueyu
+@author: 
 """
 
 import numpy as np
@@ -22,8 +22,8 @@ font_size = 38
 
 # ================ 修改部分：更新路径 ================
 data_dir = r"E:\论文写作\23 供应链 系统动力学\2 数据\加权矩阵"
-output_dir = r"E:\论文写作\35 TRE\代码\1 去点_单次\数据"
-figure_dir = r"E:\论文写作\35 TRE\代码\1 去点_单次\作图"
+output_dir = r"E:\论文写作\代码\1 去点_单次\数据"
+figure_dir = r"E:\论文写作\代码\1 去点_单次\作图"
 
 os.makedirs(output_dir, exist_ok=True)
 os.makedirs(figure_dir, exist_ok=True)
